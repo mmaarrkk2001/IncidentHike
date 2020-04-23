@@ -1,0 +1,6 @@
+<application>
+  <component name="PySdkSettings">
+    <option name="PREFERRED_VIRTUALENV_BASE_PATH" value="$VIRTUALENV_ROOT_DIR$/venv" />
+    <option name="PREFERRED_VIRTUALENV_BASE_SDK" value="C:\Users\markr\AppData\Local\Programs\Python\Python38-32\python.exe" />
+  </component>
+</application>
