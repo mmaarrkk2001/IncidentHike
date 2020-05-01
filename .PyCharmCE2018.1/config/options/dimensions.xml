@@ -1,0 +1,39 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.2256.1504" x="911" y="335" />
+    <location key="WELCOME_SCREEN.0.0.2256.1504" x="1130" y="578" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2256.1504" x="0" y="0" />
+    <location key="SettingsEditor.0.0.2256.1504" x="53" y="305" />
+    <location key="Github.ShareDialog.0.0.2256.1504" x="920" y="609" />
+    <location key="Github.UntrackedFilesDialog.0.0.2256.1504" x="900" y="443" />
+    <location key="#Notifications.0.0.2256.1504" x="884" y="463" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.2256.1504" x="913" y="628" />
+    <location key="CommitChangelistDialog2.0.0.2256.1504" x="751" y="333" />
+    <location key="ProcessPopupWindow.0.0.2256.1504" x="1690" y="1354" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2256.1504" x="582" y="388" />
+    <location key="#Main.0.0.2256.1504" x="891" y="404" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2560.1440" x="981" y="526" />
+    <location key="#Main.0.0.2560.1440" x="1043" y="372" />
+    <location key="SettingsEditor.0.0.2560.1440" x="758" y="346" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="170" y="288" />
+    <location key="#Browse_Repositories.0.0.2560.1440" x="859" y="356" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="1060" y="443" />
+    <location key="CommitChangelistDialog2.0.0.2560.1440" x="903" y="301" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.2560.1440" x="859" y="356" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2560.1440" x="1051" y="507" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.2560.1440" x="1009" y="491" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.2560.1440" x="1065" y="596" />
+    <location key="Vcs.Push.Dialog.0.0.2560.1440" x="956" y="433" />
+    <location key="git4idea.merge.GitPullDialog.0.0.2560.1440" x="998" y="500" />
+    <size key="ProcessPopupWindow.0.0.2256.1504" width="400" height="116" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2560" height="629" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2560" height="629" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2560" height="629" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2560" height="629" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2560" height="496" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2560" height="496" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2560" height="496" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2560" height="496" />
+    <size key="XDebugger.FullValuePopup.0.0.2560.1440" width="1288" height="708" />
+  </component>
+</application>

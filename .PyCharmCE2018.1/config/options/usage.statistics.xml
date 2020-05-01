@@ -1,0 +1,293 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="2" />
+      <entry action="$Undo" count="3" />
+      <entry action="ActivatePythonConsoleToolWindow" count="1" />
+      <entry action="ActivateTerminalToolWindow" count="1" />
+      <entry action="CheckinFiles" count="1" />
+      <entry action="CheckinProject" count="4" />
+      <entry action="ChooseRunConfiguration" count="2" />
+      <entry action="Configure Python Interpreter" count="1" />
+      <entry action="ConfigureIcs" count="2" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="Debug" count="43" />
+      <entry action="DialogOkAction Enter" count="4" />
+      <entry action="EditorBackSpace" count="1034" />
+      <entry action="EditorChooseLookupItem" count="4" />
+      <entry action="EditorChooseLookupItemReplace" count="97" />
+      <entry action="EditorCopy" count="41" />
+      <entry action="EditorCut" count="17" />
+      <entry action="EditorDelete" count="447" />
+      <entry action="EditorDown" count="711" />
+      <entry action="EditorDownWithSelection" count="322" />
+      <entry action="EditorEnter" count="252" />
+      <entry action="EditorEscape" count="4" />
+      <entry action="EditorLeft" count="601" />
+      <entry action="EditorLeftWithSelection" count="64" />
+      <entry action="EditorLineEnd" count="59" />
+      <entry action="EditorLineEndWithSelection" count="11" />
+      <entry action="EditorLineStart" count="63" />
+      <entry action="EditorLineStartWithSelection" count="7" />
+      <entry action="EditorNextWord" count="95" />
+      <entry action="EditorNextWordWithSelection" count="5" />
+      <entry action="EditorPaste" count="56" />
+      <entry action="EditorPreviousWord" count="62" />
+      <entry action="EditorPreviousWordWithSelection" count="25" />
+      <entry action="EditorRight" count="973" />
+      <entry action="EditorRightWithSelection" count="251" />
+      <entry action="EditorScrollDown" count="1" />
+      <entry action="EditorScrollUp" count="2" />
+      <entry action="EditorTab" count="147" />
+      <entry action="EditorTextStart" count="2" />
+      <entry action="EditorUnindentSelection" count="10" />
+      <entry action="EditorUp" count="613" />
+      <entry action="EditorUpWithSelection" count="21" />
+      <entry action="Find" count="1" />
+      <entry action="Git.Add" count="1" />
+      <entry action="Git.Configure.Remotes" count="1" />
+      <entry action="Git.Pull" count="1" />
+      <entry action="Github.Share" count="8" />
+      <entry action="HideAllWindows" count="2" />
+      <entry action="ImportSettings" count="1" />
+      <entry action="NewDirectoryProject" count="2" />
+      <entry action="NewElement" count="3" />
+      <entry action="OnlineDocAction" count="1" />
+      <entry action="OpenFile" count="2" />
+      <entry action="Resume" count="94" />
+      <entry action="Run" count="38" />
+      <entry action="SaveAll" count="4" />
+      <entry action="ShowSettings" count="6" />
+      <entry action="StepInto" count="321" />
+      <entry action="StepOver" count="1487" />
+      <entry action="Stop" count="40" />
+      <entry action="Synchronize" count="3" />
+      <entry action="ToggleLineBreakpoint" count="21" />
+      <entry action="Vcs.Push" count="3" />
+      <entry action="Vcs.UpdateProject" count="3" />
+      <entry action="XDebugger.CopyValue" count="2" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1529512612178" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.camelHumps" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="97" last-shown="1587737508385" last-used="1587920509549" shown-count="415" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="SearchEverywhere" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="102" last-shown="0" last-used="1587920509562" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="5" last-shown="0" last-used="1587919410679" shown-count="0" />
+    <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="683" />
+      <option name="invocations" value="97" />
+      <option name="startDate" value="1587596400000" />
+      <option name="dayCount" value="4" />
+      <option name="lastDate" value="1587855600000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="3" />
+      <option name="startDate" value="1529449200000" />
+      <option name="dayCount" value="3" />
+      <option name="lastDate" value="1587596400000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="Python com.jetbrains.python.inspections.PyInterpreterInspection$ConfigureInterpreterFix" count="1" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; Import Settings..." count="1" />
+      <entry path="File -&gt; New Project..." count="2" />
+      <entry path="File -&gt; New..." count="3" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="1" />
+      <entry path="File -&gt; Open..." count="2" />
+      <entry path="File -&gt; Save All" count="1" />
+      <entry path="File -&gt; Settings Repository…" count="2" />
+      <entry path="File -&gt; Settings..." count="5" />
+      <entry path="File -&gt; Synchronize" count="3" />
+      <entry path="Help -&gt; Getting Started" count="1" />
+      <entry path="Run -&gt; Run..." count="2" />
+      <entry path="VCS -&gt; Commit" count="4" />
+      <entry path="VCS -&gt; Git -&gt; Add" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Commit File" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Pull..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="3" />
+      <entry path="VCS -&gt; Git -&gt; Remotes..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="8" />
+      <entry path="VCS -&gt; Update Project" count="3" />
+      <entry path="View -&gt; Tool Windows -&gt; Python Console" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Terminal" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Backspace" count="1075" />
+      <entry shortcut="Ctrl+Alt+S" count="1" />
+      <entry shortcut="Ctrl+C" count="43" />
+      <entry shortcut="Ctrl+Down" count="1" />
+      <entry shortcut="Ctrl+F" count="1" />
+      <entry shortcut="Ctrl+Home" count="2" />
+      <entry shortcut="Ctrl+Left" count="62" />
+      <entry shortcut="Ctrl+Right" count="95" />
+      <entry shortcut="Ctrl+S" count="3" />
+      <entry shortcut="Ctrl+Shift+Left" count="25" />
+      <entry shortcut="Ctrl+Shift+Right" count="5" />
+      <entry shortcut="Ctrl+Up" count="2" />
+      <entry shortcut="Ctrl+V" count="68" />
+      <entry shortcut="Ctrl+X" count="16" />
+      <entry shortcut="Ctrl+Z" count="3" />
+      <entry shortcut="Delete" count="447" />
+      <entry shortcut="Down" count="711" />
+      <entry shortcut="End" count="59" />
+      <entry shortcut="Enter" count="274" />
+      <entry shortcut="Escape" count="4" />
+      <entry shortcut="F7" count="321" />
+      <entry shortcut="F8" count="1487" />
+      <entry shortcut="F9" count="76" />
+      <entry shortcut="Home" count="63" />
+      <entry shortcut="Left" count="601" />
+      <entry shortcut="Right" count="973" />
+      <entry shortcut="Shift+Delete" count="1" />
+      <entry shortcut="Shift+Down" count="322" />
+      <entry shortcut="Shift+End" count="11" />
+      <entry shortcut="Shift+Home" count="7" />
+      <entry shortcut="Shift+Left" count="64" />
+      <entry shortcut="Shift+Right" count="251" />
+      <entry shortcut="Shift+Tab" count="10" />
+      <entry shortcut="Shift+Up" count="21" />
+      <entry shortcut="Tab" count="244" />
+      <entry shortcut="Up" count="614" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="Sudoku" values="PythonConfigurationType" collectionTime="1588336020727" />
+    </group>
+    <group name="vcs">
+      <project id="Sudoku" values="Git" collectionTime="1588336020479" />
+      <project id="markr" values="Git" collectionTime="1587650429214" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="Sudoku" values="data.users.count.1+,data.branches.count.1+,data.git.root.count.1,data.commit.count.1+" collectionTime="1588336021372" />
+      <project id="markr" values="data.git.root.count.1,data.branches.count.1+,data.commit.count.1+,data.users.count.1+" collectionTime="1587650429545" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="markr" values="PythonConfigurationType" collectionTime="1587650429478" />
+      <project id="IncidentHike" values="PythonConfigurationType" collectionTime="1587737318997" />
+    </group>
+    <group name="file-type">
+      <project id="Sudoku" values="Python,PLAIN_TEXT" collectionTime="1588336020720" />
+      <project id="markr" values="C++,CSS,DTD,Native,PLAIN_TEXT,Dictionary,Python,JSON,Image,IDEA_MODULE,YAML,C#,UNKNOWN,JavaScript,HTML,XML,SVG,ReST,ARCHIVE" collectionTime="1587650429446" />
+      <project id="IncidentHike" values="Python,PLAIN_TEXT" collectionTime="1587737318997" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="Sudoku" values="run.dashboard.disabled" collectionTime="1588336021369" />
+      <project id="markr" values="run.dashboard.disabled" collectionTime="1587650429545" />
+      <project id="IncidentHike" values="run.dashboard.disabled" collectionTime="1587737319113" />
+    </group>
+    <group name="Docker Integration">
+      <project id="Sudoku" values="docker.runConfigs.total.0,docker.fileType.dockerfile.patterns,docker.runConfigs.entrypoint=0,docker.runConfigs.cliOptions=0,docker.accounts.machines=0,docker.runConfigs.publishAllPorts=0,docker.accounts.total.0,docker.runConfigs.compose=0,docker.runConfigs.debug=0,docker.accounts.registry=0,docker.runConfigs.dockerfile=0,docker.accounts.total=0,docker.fileType.dockerfile.patterns.1,docker.runConfigs.command=0,docker.accounts.registry.0,docker.runConfigs.image=0,docker.runConfigs.total=0,docker.runConfigs.jsonFile=0" collectionTime="1588336021485" />
+      <project id="IncidentHike" values="docker.fileType.dockerfile.patterns.1,docker.accounts.total.0,docker.runConfigs.dockerfile 0,docker.runConfigs.total 0,docker.runConfigs.entrypoint 0,docker.runConfigs.debug 0,docker.runConfigs.cliOptions 0,docker.runConfigs.total.0,docker.accounts.total 0,docker.runConfigs.compose 0,docker.runConfigs.image 0,docker.accounts.machines 0,docker.accounts.registry 0,docker.runConfigs.publishAllPorts 0,docker.accounts.registry.0,docker.fileType.dockerfile.patterns,docker.runConfigs.jsonFile 0,docker.runConfigs.command 0" collectionTime="1587737319229" />
+    </group>
+    <group name="all-listed-tools">
+      <project id="Sudoku" values="yaml.ComposeUnknownKeys,Dockerfile.DockerFileAddOrCopySemantic,Dockerfile.DockerFileArgumentCount,Dockerfile.DockerFileAssignments,yaml.ComposeUnknownValues" collectionTime="1588336021368" />
+      <project id="IncidentHike" values="yaml.ComposeUnknownValues,Dockerfile.DockerFileArgumentCount,Dockerfile.DockerFileAssignments,Dockerfile.DockerFileAddOrCopySemantic,yaml.ComposeUnknownKeys" collectionTime="1587737319113" />
+    </group>
+    <group name="all-bundled-tools">
+      <project id="Sudoku" values="Properties.UnusedProperty,Python.PyGlobalUndefined,Python.PyClassicStyleClass,XML.XmlUnusedNamespaceDeclaration,ReST.RestRoleInspection,Python.PyInterpreter,JSON.JsonStandardCompliance,RegExp.RegExpAnonymousGroup,XML.XmlInvalidId,XML.CheckXmlFileWithXercesValidator,RegExp.RegExpSingleCharAlternation,Python.PyPep8,Python.PyAugmentAssignment,XML.CheckDtdRefs,XML.XmlDefaultAttributeValue,null.TodoComment,null.LossyEncoding,Python.PyDefaultArgument,null.UnusedDefine,Python.PyUnnecessaryBackslash,null.NonAsciiCharacters,Python.PyNoneFunctionAssignment,Python.PyComparisonWithNone,null.PyPackageRequirements,JSON.JsonDuplicatePropertyKeys,Python.PyExceptClausesOrder,XML.RequiredAttributes,Python.PyOldStyleClasses,Python.PyUnboundLocalVariable,Python.PyIncorrectDocstring,Python.PyClassHasNoInit,Python.PyRedundantParentheses,HTML.HtmlExtraClosingTag,null.LongLine,Python.PyMethodFirstArgAssignment,Python.PyChainedComparisons,Python.PyMissingConstructor,Python.PyBroadException,RegExp.RegExpRepeatedSpace,Python.PyAssignmentToLoopOrWithParameter,HTML.HtmlUnknownBooleanAttribute,Python.PyPropertyAccess,XML.XmlWrongRootElement,Python.PyMissingTypeHints,Python.PyTupleAssignmentBalance,Python.PyAbstractClass,Python.PyTypeChecker,Python.PyInitNewSignature,Python.PyDictCreation,Python.PyTupleItemAssignment,Python.PyMethodParameters,Python.PyFromFutureImport,Python.PyUnresolvedReferences,XML.CheckEmptyScriptTag,Python.PyMandatoryEncoding,Python.PyMethodMayBeStatic,Python.PyDataclass,null.InconsistentLineSeparators,RegExp.RegExpUnexpectedAnchor,Python.PyNestedDecorators,XML.XmlUnboundNsPrefix,Python.PyArgumentList,Python.PyOverloads,Python.PyStringFormat,Python.PyShadowingBuiltins,RegExp.RegExpRedundantEscape,HTML.HtmlMissingClosingTag,XML.XmlDuplicatedId,Properties.IncompleteProperty,Python.PyInconsistentIndentation,Python.PyTrailingSemicolon,Python.PyStatementEffect,Python.PyMethodOverriding,Python.PySimplifyBooleanCheck,Python.PyDictDuplicateKeys,XML.HtmlUnknownAnchorTarget,null.SyntaxError,Python.PySetFunctionToLiteral,Python.PyListCreation,XML.CheckValidXmlInScriptTagBody,Python.PySuperArguments,null.SpellCheckingInspection,null.ProblematicWhitespace,null.UnresolvedReference,Properties.DuplicatePropertyInspection,XML.XmlPathReference,null.InjectedReferences,Python.PyPep8Naming,Python.PyStringException,Python.PyProtectedMember,HTML.HtmlUnknownTag,XML.HtmlUnknownTarget,Python.PyReturnFromInit,Python.PyCompatibility,Python.PyByteLiteral,RegExp.RegExpDuplicateAlternationBranch,Python.PyProtocol,Python.PyCallByClass,Properties.WrongPropertyKeyValueDelimiter,Properties.TrailingSpacesInProperty,Python.PyDecorator,Python.PyMissingOrEmptyDocstring,Python.PyPropertyDefinition,RegExp.RegExpOctalEscape,Python.PyUnreachableCode,BuildoutCfg.BuildoutUnresolvedPartInspection,Python.PyShadowingNames,Python.PyUnusedLocal,Python.PyNonAsciiChar,Python.PyDeprecation,Python.PyDunderSlots,XML.XmlHighlighting,XML.CheckTagEmptyBody,HTML.HtmlUnknownAttribute,Python.PyDocstringTypes,Python.PyCallingNonCallable,Python.PyExceptionInherit,null.Annotator,Python.PyNamedTuple,Properties.AlphaUnsortedPropertiesFile,Python.PyArgumentEqualDefault,Python.PyRedeclaration,Python.PySingleQuotedDocstring,CommandLine.CommandLineInspection,RegExp.RegExpEscapedMetaCharacter,RegExp.RegExpEmptyAlternationBranch,Python.PyAttributeOutsideInit" collectionTime="1588336020891" />
+      <project id="markr" values="Python.PyMethodOverriding,Python.PyIncorrectDocstring,XML.CheckEmptyScriptTag,Python.PyClassHasNoInit,Python.PyShadowingBuiltins,Python.PyProtectedMember,RegExp.RegExpEscapedMetaCharacter,XML.XmlPathReference,Python.PySimplifyBooleanCheck,Python.PyArgumentList,null.ProblematicWhitespace,null.PyPackageRequirements,XML.XmlHighlighting,Python.PyDictDuplicateKeys,Python.PyPropertyAccess,Python.PyAbstractClass,Python.PyMissingOrEmptyDocstring,Python.PyInconsistentIndentation,Python.PyAugmentAssignment,Python.PyAssignmentToLoopOrWithParameter,Python.PyCallByClass,XML.XmlWrongRootElement,Python.PyNestedDecorators,Properties.TrailingSpacesInProperty,Python.PyNonAsciiChar,XML.HtmlUnknownAnchorTarget,RegExp.RegExpUnexpectedAnchor,Properties.AlphaUnsortedPropertiesFile,XML.CheckValidXmlInScriptTagBody,Python.PyUnnecessaryBackslash,XML.XmlDuplicatedId,Python.PyClassicStyleClass,Python.PySingleQuotedDocstring,null.LongLine,Python.PyCompatibility,JSON.JsonDuplicatePropertyKeys,null.NonAsciiCharacters,Python.PyOldStyleClasses,XML.XmlUnboundNsPrefix,HTML.HtmlExtraClosingTag,null.Annotator,Python.PyDocstringTypes,null.InjectedReferences,Python.PyStatementEffect,RegExp.RegExpDuplicateAlternationBranch,HTML.HtmlUnknownBooleanAttribute,Python.PyInterpreter,XML.XmlUnusedNamespaceDeclaration,null.InconsistentLineSeparators,Python.PyTypeChecker,Python.PyPep8Naming,HTML.HtmlMissingClosingTag,Python.PyAttributeOutsideInit,XML.XmlInvalidId,Python.PySetFunctionToLiteral,Python.PyRedeclaration,RegExp.RegExpEmptyAlternationBranch,BuildoutCfg.BuildoutUnresolvedPartInspection,Python.PySuperArguments,Python.PyFromFutureImport,Python.PyShadowingNames,RegExp.RegExpRedundantEscape,Properties.UnusedProperty,Python.PyByteLiteral,CommandLine.CommandLineInspection,Python.PyDecorator,XML.XmlDefaultAttributeValue,RegExp.RegExpRepeatedSpace,Python.PyNamedTuple,Python.PyRedundantParentheses,XML.CheckXmlFileWithXercesValidator,Python.PyStringFormat,Python.PyUnresolvedReferences,Python.PyTrailingSemicolon,XML.HtmlUnknownTarget,null.SpellCheckingInspection,Python.PyMethodParameters,Python.PyProtocol,HTML.HtmlUnknownTag,JSON.JsonStandardCompliance,Python.PyCallingNonCallable,Python.PyExceptionInherit,RegExp.RegExpSingleCharAlternation,Python.PyUnboundLocalVariable,null.UnresolvedReference,HTML.HtmlUnknownAttribute,null.LossyEncoding,Python.PyBroadException,null.SyntaxError,Python.PyStringException,Python.PyDeprecation,Python.PyMissingTypeHints,Python.PyDataclass,Python.PyArgumentEqualDefault,RegExp.RegExpOctalEscape,Properties.IncompleteProperty,Python.PyMandatoryEncoding,Python.PyNoneFunctionAssignment,null.UnusedDefine,Python.PyMissingConstructor,Python.PyUnreachableCode,Python.PyDefaultArgument,Properties.DuplicatePropertyInspection,Python.PyMethodFirstArgAssignment,Python.PyMethodMayBeStatic,Python.PyPep8,ReST.RestRoleInspection,Python.PyGlobalUndefined,Python.PyPropertyDefinition,Python.PyTupleItemAssignment,Python.PyDunderSlots,Python.PyReturnFromInit,Python.PyInitNewSignature,RegExp.RegExpAnonymousGroup,Python.PyExceptClausesOrder,Python.PyListCreation,Python.PyUnusedLocal,XML.RequiredAttributes,null.TodoComment,XML.CheckDtdRefs,Python.PyOverloads,Properties.WrongPropertyKeyValueDelimiter,Python.PyDictCreation,XML.CheckTagEmptyBody,Python.PyTupleAssignmentBalance,Python.PyChainedComparisons,Python.PyComparisonWithNone" collectionTime="1587650429494" />
+      <project id="IncidentHike" values="Python.PyMissingTypeHints,Python.PyUnreachableCode,Python.PyMandatoryEncoding,RegExp.RegExpUnexpectedAnchor,Python.PyMethodParameters,Python.PyByteLiteral,Python.PyChainedComparisons,Python.PyOverloads,Python.PyPropertyAccess,ReST.RestRoleInspection,Python.PyRedeclaration,Python.PyListCreation,null.LossyEncoding,Python.PyOldStyleClasses,HTML.HtmlUnknownAttribute,XML.XmlInvalidId,Python.PyMissingConstructor,Python.PyReturnFromInit,null.InconsistentLineSeparators,Python.PyAssignmentToLoopOrWithParameter,null.ProblematicWhitespace,null.SyntaxError,Python.PyDeprecation,Python.PyShadowingNames,Python.PyNamedTuple,Python.PyStringFormat,XML.HtmlUnknownAnchorTarget,Python.PyDunderSlots,RegExp.RegExpEscapedMetaCharacter,JSON.JsonStandardCompliance,Properties.TrailingSpacesInProperty,Python.PyDecorator,Python.PyComparisonWithNone,Python.PyExceptClausesOrder,Python.PyExceptionInherit,Properties.IncompleteProperty,XML.XmlDuplicatedId,Python.PyTupleItemAssignment,Python.PyInconsistentIndentation,Python.PyProtocol,RegExp.RegExpDuplicateAlternationBranch,Python.PySingleQuotedDocstring,Python.PyRedundantParentheses,Python.PyClassicStyleClass,XML.XmlWrongRootElement,RegExp.RegExpRedundantEscape,Python.PyDictDuplicateKeys,XML.CheckTagEmptyBody,XML.XmlPathReference,JSON.JsonDuplicatePropertyKeys,Python.PyShadowingBuiltins,HTML.HtmlUnknownBooleanAttribute,Python.PyBroadException,Python.PyGlobalUndefined,RegExp.RegExpAnonymousGroup,RegExp.RegExpOctalEscape,Python.PyMethodOverriding,Python.PyProtectedMember,null.LongLine,XML.CheckXmlFileWithXercesValidator,Python.PyFromFutureImport,RegExp.RegExpEmptyAlternationBranch,Python.PyAbstractClass,null.Annotator,Python.PyArgumentList,Python.PyTupleAssignmentBalance,XML.XmlDefaultAttributeValue,Python.PyTrailingSemicolon,Properties.WrongPropertyKeyValueDelimiter,XML.XmlHighlighting,Python.PyCompatibility,Python.PyCallByClass,null.SpellCheckingInspection,null.TodoComment,Properties.AlphaUnsortedPropertiesFile,Python.PyUnresolvedReferences,XML.CheckValidXmlInScriptTagBody,null.NonAsciiCharacters,HTML.HtmlExtraClosingTag,Python.PySimplifyBooleanCheck,Python.PyMethodMayBeStatic,Python.PyCallingNonCallable,CommandLine.CommandLineInspection,Python.PyUnusedLocal,BuildoutCfg.BuildoutUnresolvedPartInspection,Python.PyAttributeOutsideInit,Python.PyInitNewSignature,HTML.HtmlMissingClosingTag,XML.CheckDtdRefs,Python.PyUnboundLocalVariable,XML.CheckEmptyScriptTag,Python.PySuperArguments,Python.PyTypeChecker,RegExp.RegExpRepeatedSpace,Python.PyUnnecessaryBackslash,Python.PyDataclass,Python.PyMethodFirstArgAssignment,Python.PyDefaultArgument,Python.PyClassHasNoInit,null.PyPackageRequirements,Python.PyMissingOrEmptyDocstring,Python.PyArgumentEqualDefault,HTML.HtmlUnknownTag,Python.PyInterpreter,Python.PyAugmentAssignment,XML.XmlUnboundNsPrefix,RegExp.RegExpSingleCharAlternation,Python.PyPropertyDefinition,Python.PyDictCreation,XML.XmlUnusedNamespaceDeclaration,null.InjectedReferences,null.UnresolvedReference,Python.PyIncorrectDocstring,Python.PyNoneFunctionAssignment,Python.PyNonAsciiChar,Python.PyPep8,Properties.UnusedProperty,Python.PyPep8Naming,Python.PyDocstringTypes,Python.PyNestedDecorators,null.UnusedDefine,Python.PyStringException,XML.RequiredAttributes,Python.PyStatementEffect,XML.HtmlUnknownTarget,Properties.DuplicatePropertyInspection,Python.PySetFunctionToLiteral" collectionTime="1587737318997" />
+    </group>
+    <group name="py-interpreter">
+      <project id="Sudoku" values="Python 3.8.2 [virtualenv]" collectionTime="1588336021375" />
+      <project id="markr" values="Python 3.8.2 [virtualenv]" collectionTime="1587650429545" />
+    </group>
+    <group name="module type">
+      <project id="Sudoku" values="PYTHON_MODULE" collectionTime="1588336020724" />
+      <project id="markr" values="PYTHON_MODULE" collectionTime="1587650429446" />
+      <project id="IncidentHike" values="PYTHON_MODULE" collectionTime="1587737318997" />
+    </group>
+    <group name="vcs-stats">
+      <project id="Sudoku" values="ignored.files.count.1,unversioned.files.count.50K+,has.default.vcs.root.mapping.disabled,vcs.roots.count.1,active.changelists.count.1" collectionTime="1588336020476" />
+      <project id="markr" values="unversioned.files.count.10K+,ignored.files.count.1,has.default.vcs.root.mapping.disabled,active.changelists.count.1,vcs.roots.count.1" collectionTime="1587650429214" />
+      <project id="IncidentHike" values="ignored.files.count.0,unversioned.files.count.0,vcs.roots.count.0,active.changelists.count.1,has.default.vcs.root.mapping.enabled" collectionTime="1587737318981" />
+    </group>
+    <group name="Git">
+      <project id="Sudoku" values="config.warn.about.detached.enabled,config.ssh.enabled,config.push.autoupdate.disabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.remote.servers.github.com.2,data.remote.branches.count.1,data.remotes.in.project.2+,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.remote.servers.github.com.2,version.2.17.1-CYGWIN,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1588336021381" />
+      <project id="markr" values="data.remotes.in.project.1,data.remote.servers.github.com.1,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remote.branches.count.1,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,version.2.17.1-CYGWIN,data.local.branches.count.1" collectionTime="1587650429561" />
+      <project id="IncidentHike" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,version.0.0.0-NULL,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1587737319128" />
+    </group>
+    <group name="Docker View">
+      <project id="Sudoku" values="docker.view.available,docker.view.total" collectionTime="1588336021486" />
+      <project id="IncidentHike" values="docker.view.available,docker.view.total" collectionTime="1587737319229" />
+    </group>
+    <group name="vcs-options">
+      <project id="Sudoku" values="commit.before.check.todo.enabled,perform.commit.in.background.enabled,commit.clear.initial.comment.disabled,perform.update.in.background.enabled,commit.show.unversioned.enabled,show.changes.preview.disabled,commit.before.check.code.cleanup.disabled,changelist.make.new.active.disabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,offer.move.failed.committed.do_nothing_silently,offer.remove.empty.changelist.show_confirmation,commit.before.check.non.empty.comment.disabled,commit.before.optimize.imports.disabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,changelist.preselect.existing.disabled,commit.before.rearrange.disabled,perform.edit.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.code.smell.disabled,include.text.into.shelf.enabled,check.conflicts.in.background.disabled,offer.move.partially.committed.disabled" collectionTime="1588336020407" />
+      <project id="markr" values="commit.before.check.code.cleanup.disabled,include.text.into.shelf.enabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,offer.move.partially.committed.disabled,commit.show.unversioned.enabled,perform.commit.in.background.enabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,check.conflicts.in.background.disabled,commit.before.check.code.smell.disabled,show.changes.preview.disabled,commit.before.check.todo.enabled,commit.clear.initial.comment.disabled,offer.remove.empty.changelist.show_confirmation,offer.move.failed.committed.do_nothing_silently,perform.edit.in.background.enabled,perform.update.in.background.enabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,commit.before.check.non.empty.comment.disabled,commit.before.rearrange.disabled" collectionTime="1587650429199" />
+      <project id="IncidentHike" values="perform.add_remove.in.background.enabled,check.conflicts.in.background.disabled,offer.remove.empty.changelist.show_confirmation,perform.edit.in.background.enabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,perform.commit.in.background.enabled,commit.before.check.code.smell.disabled,perform.rollback.in.background.disabled,perform.update.in.background.enabled,commit.before.rearrange.disabled,commit.clear.initial.comment.disabled,commit.show.unversioned.enabled,offer.move.partially.committed.disabled,changelist.make.new.active.disabled,perform.checkout.in.background.enabled,include.text.into.shelf.enabled,commit.before.check.todo.enabled,changelist.preselect.existing.disabled,commit.before.reformat.project.disabled,show.changes.preview.disabled,commit.before.optimize.imports.disabled,commit.before.check.code.cleanup.disabled,commit.before.check.non.empty.comment.disabled" collectionTime="1587737318975" />
+    </group>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Debug@NavBarToolbar" count="43" />
+      <entry action="Resume@DebuggerToolbar" count="18" />
+      <entry action="Run@NavBarToolbar" count="38" />
+      <entry action="RunConfiguration@NavBarToolbar" count="8" />
+      <entry action="Stop@DebuggerToolbar" count="14" />
+      <entry action="Stop@NavBarToolbar" count="19" />
+      <entry action="Stop@RunnerToolbar" count="7" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="5" />
+      <entry action="com.intellij.webcore.packaging.InstalledPackagesPanel$4@ToolbarDecorator" count="1" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Pure Python" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="StripeButton[Docker].hidden" count="2" />
+      <entry feature="StripeButton[Version Control].shown" count="3" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="43" />
+      <entry feature="execute.PythonConfigurationType.Run" count="37" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Project Interpreter" count="1" />
+      <entry feature="ide.settings.Version Control" count="1" />
+      <entry feature="ideaapp.started" count="11" />
+      <entry feature="python.console.local" count="1" />
+      <entry feature="terminal.win" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+    </counts>
+  </component>
+  <component name="UsagesStatistic" time="1529610446051" />
+</application>

@@ -1,0 +1,22 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6554744" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="PACKAGE_FILTER" value="psy" />
+    <property name="PLUGIN_FILTER" value="postgres&#10;psycopg2" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/IncidentHike&#10;C:/Users/markr/PycharmProjects/Sudoku&#10;C:/Users/markr&#10;D:/Users/Mark/PycharmProjects/IncidentHike" />
+    <property name="file.gist.reindex.count" value="10199" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="lastTip" value="11" />
+  </component>
+</application>
